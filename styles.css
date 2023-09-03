@@ -1,0 +1,81 @@
+body {
+    font-family: "Malgun Gothic", sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-family: "Impact", sans-serif;
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+    padding: 0% 1% 2%;
+}
+
+button {
+    border: none;
+    background-color: #A2386D;
+    padding: 7px 2px;
+    border-radius: 4px;
+}
+
+button a {
+    font-family: "Century Gothic", sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 0.9em;
+    padding: 7px 23px;
+}
+
+button:hover {
+    background-color: #C05088;
+}
+
+.shagha-img {
+    border-radius: 10px;
+    margin-right: 80px;
+}
+
+.shagha-img-div {
+    float:left;
+}
+
+.icon-img {
+    padding: 5px;
+}
+
+#first {
+    text-align: center;
+    background-color: #FF6FA5;
+    background-image: url('texture.png');
+    padding: 10% 0% 10%;
+}
+
+#second {
+    background-color: #FFFFFF;
+    padding: 10%;
+}
+
+#third {
+    background-color: #8865FF;
+    padding: 10%;
+}
+
+#forth {
+    background-color: #FFFFFF;
+    padding: 10%;
+}
+
+#footer {
+    text-align: center;
+    background-color: #FFDAC0;
+    margin: 0px;
+    font-size: 7px;
+    padding: 25px 10px 5px;
+}
